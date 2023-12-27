@@ -21,7 +21,7 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
@@ -70,6 +70,7 @@ body {
 .homecontent {
   min-height: 500px;
   margin: 10px 10px 10px 10px;
+  background: ex 7px /productcompanywebsite/companywebsite/Untitled .jpeg
 }
 .homecontent h1 {
   text-align: left;
